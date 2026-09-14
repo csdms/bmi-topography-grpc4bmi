@@ -30,6 +30,11 @@ Install grpc4bmi with *pip*:
 ```
 pip install grpc4bmi
 ```
+
+> [!WARNING]
+>
+> The *grpc4bmi* package is not supported on Python >3.13.
+
 Then, in a Python session, access the Topography Data Component in the image built above with:
 ```python
 from grpc4bmi.bmi_client_docker import BmiClientDocker
