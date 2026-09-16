@@ -21,3 +21,7 @@ Start JupyterLab and run the example notebook:
 ```sh
 jupyter lab run-model-through-grpc4bmi.ipynb
 ```
+
+> [!WARNING]
+>
+> The Topography Data Component requires an API key from OpenTopography. For more information, and instructions on its use, see the [documentation](https://bmi-topography.csdms.io/en/latest/?badge=latest#api-key).
